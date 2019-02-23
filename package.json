@@ -1,0 +1,15 @@
+{
+  "name": "emırhansarac",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.2.1",
+    "jimp": "^0.6.0"
+  }
+}
